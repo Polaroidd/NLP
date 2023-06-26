@@ -1,2 +1,4 @@
 # 2023 자연어처리(NLP)
-2023 자연어처리 실습 코드
+
+NLU, NLG
+BERT, BART, ELECTRA
